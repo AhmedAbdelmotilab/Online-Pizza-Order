@@ -1,5 +1,5 @@
 # Online-Pizza-Order
-<br><br>
+<br>
 #Schema
 <br>
 ![ER Online Pizza Order](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/e74b07c3-c344-4e71-9231-1696376fffa3)
@@ -20,19 +20,6 @@
 ![1-1](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/d13553a2-262f-42e5-89ef-c9e506df8c00)
 ![Categories](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/50e17ff0-3102-46b8-be66-6d8ad477c04b)
 <br><br>
-#DataBase Query
-<br>
-![U![Contact](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/b9cfaabc-9ed3-4ea9-90d0-be17c3c175d1)![ViewCart](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/280d0d37-445e-4f8d-a7b1-1010d6785f74)
-![users](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/f95241a8-bc0e-4b66-9381-c715742493a6)
-[SQL.txt](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/files/12053003/SQL.txt)
-![SQL SELECT](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/b8ccd93b-ba99-450e-bd5c-47821ab28657)
-![Pizza](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/441d8ee3-00d9-42e3-b8f1-a9b72c0d33ad)
-![Orders](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/4c2f9b62-497c-4e48-ab4e-10880efe0761)
-![OrderItems](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/32dcf8a1-8c42-45b5-bded-867df8ba500b)
-![DeliveryDetails](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/b0673304-b617-4f7d-bfa6-8257a86e4313)
-![ContactReply](https://github.com/AhmedAbdelmotilab/Online-Pizza-Order/assets/108872867/23c673b5-2fee-4c03-b2c7-d2277348657e)
-ploading Categories.png…]()
-
 
 
 
